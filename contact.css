@@ -15,6 +15,7 @@ button {
     position: center;
     background: #000000;
     transition: 0.1s;
+    font-align: center;
   }
   
   button::after {
