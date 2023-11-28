@@ -1,6 +1,6 @@
 /*MAIN*/
 body {
-    background-color:#270E2F;
+  background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
     color:white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
