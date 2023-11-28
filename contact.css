@@ -13,10 +13,10 @@ button {
     border-radius: 1rem;
     border: none;
     position: center;
-    background: #000000;
+    background: black;
     transition: 0.1s;
     font-align: center;
-    font-color: white;
+    color: white;
   }
   
   button::after {
