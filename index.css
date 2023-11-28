@@ -9,12 +9,12 @@ button {
     width: 165px;
     height: 62px;
     cursor: pointer;
-    color: black;
+    color: white;
     font-size: 17px;
     border-radius: 1rem;
     border: none;
     position: relative;
-    background: #000000;
+    background: black;
     transition: 0.1s;
     font-align: center;
   }
@@ -53,6 +53,7 @@ button {
     text-align: center;
     cursor: pointer;
     transition: 0.4s;
+    color: white;
    }
    
    #bottone1:hover {
