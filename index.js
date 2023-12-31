@@ -1,1 +1,1 @@
-window.alert("This website is basically under construction and will continue to be for probably the next 10 years idk.")
+window.alert("idk what im doing tbh.")
