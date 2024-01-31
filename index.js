@@ -1,1 +1,0 @@
-window.alert("Planning to launch the updated ver on 1/1/2025")
