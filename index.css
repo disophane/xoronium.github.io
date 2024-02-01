@@ -23,8 +23,6 @@ h4, p {
     margin: 10px 0;
 }
 
-
-
 #About {
   width: 165px;
   height: 62px;
@@ -35,7 +33,7 @@ h4, p {
   border: none;
   position: absolute;
   top: 0.5%; /* Place the button below the text */
-  right: 0; /* Align to the right of the page */
+  left: 0; /* Align to the left of the page */
   background: #0f0f0f;
   transition: 0.1s;
 }
@@ -50,13 +48,11 @@ h4, p {
   border: none;
   position: absolute;
   top: 0.5%; /* Place the button below the text */
-  right: 180px; /* Align to the right of the page, leaving space for the Socials button */
+  left: 180px; /* Align to the left of the page, leaving space for the Socials button */
   background: #0f0f0f;
   transition: 0.1s;
 }
 
-
-  
   .topnav {
     float:left;
   }
