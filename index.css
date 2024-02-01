@@ -34,7 +34,7 @@ h4, p {
   position: absolute;
   top: 0.5%; /* Place the button below the text */
   left: 0; /* Align to the left of the page */
-  background: #0f0f0f;
+  background: #000000;
   transition: 0.1s;
 }
 
@@ -49,7 +49,7 @@ h4, p {
   position: absolute;
   top: 0.5%; /* Place the button below the text */
   left: 180px; /* Align to the left of the page, leaving space for the Socials button */
-  background: #0f0f0f;
+  background: #000000;
   transition: 0.1s;
 }
 
