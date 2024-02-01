@@ -2,7 +2,7 @@ body {
   background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(73,76,77,1) 100%);
   color: white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .main {
     text-align: center;
