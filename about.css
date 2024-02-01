@@ -29,7 +29,7 @@ button {
   position: absolute;
   top: 2%; /* Place the button below the text */
   left: 0; /* Align to the left of the page */
-  background: #100720;
+  background: #0f0f0f;
   transition: 0.1s;
 }
 
