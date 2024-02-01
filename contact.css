@@ -5,12 +5,6 @@ background: linear-gradient(90deg, rgba(71,16,142,1) 0%, rgba(103,14,180,1) 35%,
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.container {
-  text-align: center;
-  margin-top: 20px;
-  position: relative;
-}
-
 .github {
   width: 165px;
   height: 62px;
