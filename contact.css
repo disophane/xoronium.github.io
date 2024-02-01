@@ -2,7 +2,7 @@ body {
   background: rgb(71,16,142);
 background: linear-gradient(90deg, rgba(71,16,142,1) 0%, rgba(103,14,180,1) 35%, rgba(118,25,194,1) 100%);
     color:white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .github {
