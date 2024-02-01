@@ -11,7 +11,7 @@ background: linear-gradient(90deg, rgba(71,16,142,1) 0%, rgba(103,14,180,1) 35%,
   position: relative;
 }
 
-#GitHub {
+.GitHub {
   width: 165px;
   height: 62px;
   cursor: pointer;
@@ -26,7 +26,7 @@ background: linear-gradient(90deg, rgba(71,16,142,1) 0%, rgba(103,14,180,1) 35%,
   transition: 0.1s;
 }
 
-#Instagram {
+.Instagram {
   width: 165px;
   height: 62px;
   cursor: pointer;
