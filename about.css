@@ -27,9 +27,9 @@ button {
   border-radius: 1rem;
   border: none;
   position: absolute;
-  bottom: -5px; /* Adjust as needed to center the button at the bottom of the text */
-  left: 50%;
-  transform: translateX(-50%);
+  top: 100%; /* Place the button below the text */
+  left: 0; /* Align to the left of the page */
   background: #100720;
   transition: 0.1s;
 }
+
