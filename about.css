@@ -2,20 +2,20 @@ body {
   background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(73,76,77,1) 100%);
   color: white;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  padding-top: 50px; /* Add padding to create space for the button */
+  font-family: 'Roboto', sans-serif;
+  padding-top: 50px;
 }
 
 .title {
   color: white;
-  text-align: center; /* Center the title */
+  text-align: center;
 }
 
 .text1 {
   color: white;
-  text-align: center; /* Center the text */
-  margin-bottom: 20px; /* Add space at the bottom of the text */
-  position: relative; /* Set position to relative to align the button */
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative; 
 }
 
 button {
@@ -27,8 +27,8 @@ button {
   border-radius: 1rem;
   border: none;
   position: absolute;
-  top: 0.5%; /* Place the button below the text */
-  left: 0; /* Align to the left of the page */
+  top: 0.5%;
+  left: 0; 
   background: #000000;
   transition: 0.1s;
 }
