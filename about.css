@@ -1,6 +1,6 @@
 body {
-  background: rgb(71,16,142);
-  background: linear-gradient(90deg, rgba(71,16,142,1) 0%, rgba(103,14,180,1) 35%, rgba(118,25,194,1) 100%);
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(73,76,77,1) 100%);
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding-top: 50px; /* Add padding to create space for the button */
