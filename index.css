@@ -4,6 +4,26 @@ body {
     color:white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.main {
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h4, p {
+    margin: 10px 0;
+}
+
+
 
 button {
     width: 165px;
